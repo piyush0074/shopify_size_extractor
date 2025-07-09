@@ -1,0 +1,107 @@
+{
+  "stores": [
+    {
+      "store_name": "littleboxindia.com",
+      "products": [
+        {
+          "product_title": "Square Neck Solid Pleated Cami Black Mini Dress Curve \u0026 Plus",
+          "product_url": "https://www.littleboxindia.com/collections/plus-curve/products/square-neck-solid-pleated-cami-mini-dress-curve-plus",
+          "size_chart": [
+            {
+              "headers": [
+                "Size",
+                "Bust (in)",
+                "Waist (in)",
+                "Hip (in)"
+              ],
+              "rows": [
+                {
+                  "Bust (in)": "42",
+                  "Hip (in)": "45",
+                  "Size": "2XL",
+                  "Waist (in)": "34"
+                },
+                {
+                  "Bust (in)": "44",
+                  "Hip (in)": "47",
+                  "Size": "3XL",
+                  "Waist (in)": "36"
+                },
+                {
+                  "Bust (in)": "46",
+                  "Hip (in)": "49",
+                  "Size": "4XL",
+                  "Waist (in)": "38"
+                },
+                {
+                  "Bust (in)": "48",
+                  "Hip (in)": "51",
+                  "Size": "5XL",
+                  "Waist (in)": "40"
+                },
+                {
+                  "Bust (in)": "50",
+                  "Hip (in)": "53",
+                  "Size": "6XL",
+                  "Waist (in)": "42"
+                },
+                {
+                  "Bust (in)": "52",
+                  "Hip (in)": "55",
+                  "Size": "7XL",
+                  "Waist (in)": "44"
+                }
+              ]
+            },
+            {
+              "headers": [
+                "Size",
+                "Bust (cm)",
+                "Waist (cm)",
+                "Hip (cm)"
+              ],
+              "rows": [
+                {
+                  "Bust (cm)": "107",
+                  "Hip (cm)": "114",
+                  "Size": "2XL",
+                  "Waist (cm)": "86.4"
+                },
+                {
+                  "Bust (cm)": "112",
+                  "Hip (cm)": "119",
+                  "Size": "3XL",
+                  "Waist (cm)": "91.4"
+                },
+                {
+                  "Bust (cm)": "117",
+                  "Hip (cm)": "124",
+                  "Size": "4XL",
+                  "Waist (cm)": "96.5"
+                },
+                {
+                  "Bust (cm)": "122",
+                  "Hip (cm)": "130",
+                  "Size": "5XL",
+                  "Waist (cm)": "102"
+                },
+                {
+                  "Bust (cm)": "127",
+                  "Hip (cm)": "135",
+                  "Size": "6XL",
+                  "Waist (cm)": "107"
+                },
+                {
+                  "Bust (cm)": "132",
+                  "Hip (cm)": "140",
+                  "Size": "7XL",
+                  "Waist (cm)": "112"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

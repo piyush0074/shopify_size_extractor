@@ -1,0 +1,119 @@
+{
+  "stores": [
+    {
+      "store_name": "westside.com",
+      "products": [
+        {
+          "product_title": "Wardrobe Off-White Stripe Printed Top",
+          "product_url": "https://www.westside.com/products/wardrobe-off-white-stripe-printed-top-301022601?variant=44555983421493",
+          "size_chart": [
+            {
+              "headers": [
+                "Size",
+                "Bust (in)",
+                "Waist (in)",
+                "Hip (in)"
+              ],
+              "rows": [
+                {
+                  "Bust (in)": "31",
+                  "Hip (in)": "34",
+                  "Size": "XXS",
+                  "Waist (in)": "24"
+                },
+                {
+                  "Bust (in)": "33",
+                  "Hip (in)": "36",
+                  "Size": "XS",
+                  "Waist (in)": "26"
+                },
+                {
+                  "Bust (in)": "35",
+                  "Hip (in)": "38",
+                  "Size": "S",
+                  "Waist (in)": "28"
+                },
+                {
+                  "Bust (in)": "37",
+                  "Hip (in)": "40",
+                  "Size": "M",
+                  "Waist (in)": "30"
+                },
+                {
+                  "Bust (in)": "39",
+                  "Hip (in)": "42",
+                  "Size": "L",
+                  "Waist (in)": "32"
+                },
+                {
+                  "Bust (in)": "41",
+                  "Hip (in)": "44",
+                  "Size": "XL",
+                  "Waist (in)": "34"
+                },
+                {
+                  "Bust (in)": "43",
+                  "Hip (in)": "46",
+                  "Size": "2XL",
+                  "Waist (in)": "36"
+                }
+              ]
+            },
+            {
+              "headers": [
+                "Size",
+                "Bust (cm)",
+                "Waist (cm)",
+                "Hip (cm)"
+              ],
+              "rows": [
+                {
+                  "Bust (cm)": "78",
+                  "Hip (cm)": "86",
+                  "Size": "XXS",
+                  "Waist (cm)": "62"
+                },
+                {
+                  "Bust (cm)": "83",
+                  "Hip (cm)": "91",
+                  "Size": "XS",
+                  "Waist (cm)": "67"
+                },
+                {
+                  "Bust (cm)": "88",
+                  "Hip (cm)": "96",
+                  "Size": "S",
+                  "Waist (cm)": "72"
+                },
+                {
+                  "Bust (cm)": "93",
+                  "Hip (cm)": "101",
+                  "Size": "M",
+                  "Waist (cm)": "77"
+                },
+                {
+                  "Bust (cm)": "98",
+                  "Hip (cm)": "106",
+                  "Size": "L",
+                  "Waist (cm)": "82"
+                },
+                {
+                  "Bust (cm)": "103",
+                  "Hip (cm)": "111",
+                  "Size": "XL",
+                  "Waist (cm)": "87"
+                },
+                {
+                  "Bust (cm)": "108",
+                  "Hip (cm)": "116",
+                  "Size": "2XL",
+                  "Waist (cm)": "92"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
